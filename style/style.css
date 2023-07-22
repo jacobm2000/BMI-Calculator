@@ -8,6 +8,9 @@
     background-color: rgba(29, 210, 189, 1);
     font-size: 2.5rem;
     color: white;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+    stroke-width: 1px;
     padding: 0;
     margin: 0;
 }
@@ -58,11 +61,4 @@
 
 
 
-}
-
-@media only screen and (max-width: 600px) {
-    .nav-cust {
-        text-align: center;
-
-    }
 }
