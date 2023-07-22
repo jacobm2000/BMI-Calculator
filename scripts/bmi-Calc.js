@@ -15,19 +15,19 @@ function calc(){
         let bmi=((parseFloat(weight.value)/tinch)/71)*703
         bmiOut.textContent="your bmi is: "+bmi.toFixed(2)
         if(bmi<18.5){
-            bmiClass.textContent=" Your Bmi is: Underweight"
+            bmiClass.textContent=" Your BMI is: Underweight"
         }
         else if(bmi>18.5 && bmi<=24.99){
-            bmiClass.textContent=" Your Bmi is: Normal"
+            bmiClass.textContent=" Your BMI is: Normal"
         }
         else if(bmi>24.99 && bmi<=29.99){
-            bmiClass.textContent=" Your Bmi is: Overweight"
+            bmiClass.textContent=" Your BMI is: Overweight"
         }
         else if(bmi>29.99 && bmi<34.99){
-            bmiClass.textContent=" Your Bmi is: Obese"
+            bmiClass.textContent=" Your BMI is: Obese"
         }
         else if( bmi>34.99){
-            bmiClass.textContent=" Your Bmi is: Severely Obese"
+            bmiClass.textContent=" Your BMI is: Severely Obese"
         }
         
     }
