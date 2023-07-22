@@ -1,0 +1,50 @@
+.input-head{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.nav-cust{
+    background-color: rgba(29, 210, 189, 1);
+    font-size: 2.5rem;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.input{
+    background-color:rgba(245, 245, 245, 1);
+    box-shadow: 1px 1px 4px;
+    height: 3rem;
+    border: none;
+    outline:none;
+}
+.input-small{
+    width: 4rem;
+}
+.mr-7{
+    margin-right: 7rem;
+}
+.ml-7{
+    margin-left: 7rem;
+}
+
+.btn-aqua{
+    margin-top: 1rem;
+    background-color: rgba(29, 210, 189, 1);
+    border: 0;
+    width: 12rem;
+    height: 3rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.75rem;
+}
+.progress{
+
+   margin-left: auto;
+   margin-right: auto;
+    width: 40rem;
+    
+    
+}
+.left{
+    
+}
