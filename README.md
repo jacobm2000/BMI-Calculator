@@ -8,4 +8,4 @@ for all users.
 
 
 ### Moblie
-![](./Screenshots/mobile.JPG.JPG)
+![](./Screenshots/mobile.JPG)
