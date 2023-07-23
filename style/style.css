@@ -35,10 +35,23 @@
     margin-left: 7rem;
 }
 
-.mt-7 {
-    margin-top: 7rem;
+
+#hm {
+    display: none;
+
 }
 
+.form-select {
+    border: 0;
+    background-color: rgba(245, 245, 245, 1);
+    height: 3rem;
+    box-shadow: 1px 1px 4px;
+    font-weight: bold;
+    width: 12rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
 
 .btn-aqua {
     margin-top: 1rem;
