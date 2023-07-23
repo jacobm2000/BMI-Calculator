@@ -3,3 +3,9 @@ Basic BMI calculator created using my own Figma design. The interface is designe
 for all users.
 
 ## Screenshots
+### Desktop
+![](./Screenshots/desktop.JPG)
+
+
+### Moblie
+![](./Screenshots/mobile.JPG.JPG)
