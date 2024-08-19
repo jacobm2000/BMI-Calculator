@@ -42,7 +42,7 @@ function calc() {
         }
         else {
             let tinch = (parseInt(ft.value) * 12) + parseFloat(inch.value)
-            var bmi = ((parseFloat(weight.value) / tinch) / 71) * 703
+            var bmi = ((parseFloat(weight.value) / (tinch*tinch))) * 703
         }
     }
     else {
